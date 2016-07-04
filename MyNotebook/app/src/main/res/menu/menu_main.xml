@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tan90.mynotebook.MainActivity">
+    <item
+        android:id="@+id/action_create_sample"
+        android:orderInCategory="100"
+        android:title="@string/create_sample_data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_notes"
+        android:orderInCategory="100"
+        android:title="@string/delete_all_notes"
+        app:showAsAction="never" />
+</menu>

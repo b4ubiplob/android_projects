@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="operating_systems">
+        <item>Ubuntu</item>
+        <item>Mac os</item>
+        <item>Windows</item>
+    </string-array>
+</resources>
