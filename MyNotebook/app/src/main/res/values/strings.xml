@@ -8,8 +8,12 @@
     <string name="title_activity_editor">EditorActivity</string>
     <string name="edit_note">Edit Note</string>
     <string name="note_updated">Note Updated</string>
+    <string name="notebook_updated">Notebook Updated</string>
+
     <string name="action_delete">Delete</string>
     <string name="note_deleted">Note deleted</string>
+    <string name="notebook_deleted">Notebook deleted</string>
+
     <string name="note">note</string>
     <string name="enter_note_here">Enter note here</string>
     <string name="enter_title">enter title</string>
@@ -27,4 +31,19 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notebook">My Notebook</string>
+    <string name="title_activity_noetbook_editor">NoetbookEditorActivity</string>
+    <string name="title_activity_notebook_editor">NotebookEditorActivity</string>
+    <string name="enter_notebook_title">Enter notebook title</string>
+    <string name="new_notebook">New notebook</string>
+    <string name="edit_notebook">Edit notebook</string>
+    <string name="enter_notebook_description">Enter notebook description</string>
+    <string name="title_activity_note">All notes</string>
+
 </resources>

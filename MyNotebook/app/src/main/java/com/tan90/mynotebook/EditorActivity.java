@@ -45,7 +45,7 @@ public class EditorActivity extends AppCompatActivity {
         else {
             action = Intent.ACTION_EDIT;
             noteFilter = DBOpenHelper.NOTE_ID + "=" + uri.getLastPathSegment();
-            Cursor cursor = getContentResolver().query(uri, DBOpenHelper.ALL_COLUMNS,
+            Cursor cursor = getContentResolver().query(uri, DBOpenHelper.NOTES_TABLE_COLUMNS,
                     noteFilter, null, null);
             cursor.moveToFirst();
             oldText = cursor.getString(cursor.getColumnIndex(DBOpenHelper.NOTE_TEXT));

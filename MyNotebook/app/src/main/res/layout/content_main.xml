@@ -11,9 +11,11 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.tan90.mynotebook.MainActivity"
     tools:showIn="@layout/activity_main">
-
+    <!--
     <ListView
         android:id="@+id/android:list"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+     -->
 </RelativeLayout>

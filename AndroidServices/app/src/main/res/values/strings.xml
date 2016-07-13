@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidServices</string>
+    <string name="do_task">Do Task</string>
+    <string name="flower_name_placeholder">Flower name</string>
+</resources>
